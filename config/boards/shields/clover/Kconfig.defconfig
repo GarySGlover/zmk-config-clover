@@ -1,0 +1,6 @@
+if SHIELD_CLOVER
+
+config ZMK_KEYBOARD_NAME
+    default "clover"
+
+endif

@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: blackpill_f401ce
-    shield: two_percent_milk
+  - board: rpi_pico
+    shield: clover
