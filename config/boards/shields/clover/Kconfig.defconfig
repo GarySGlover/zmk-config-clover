@@ -3,4 +3,7 @@ if SHIELD_CLOVER
 config ZMK_KEYBOARD_NAME
     default "clover"
 
+config ZMK_USB
+	default y
+
 endif
